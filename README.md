@@ -1,4 +1,4 @@
-![MountainNavRender](https://github.com/mr-yak/Mountain-Nav/blob/main/PromotionalMaterial/RenderImage.png)
+![MountainNavRender](https://github.com/mr-yak/Mountain-Nav/blob/main/PromotionalMaterial/MtMurchisonBanner.png)
 # MountainNav
 Scholarship Technology Project
 
